@@ -1,0 +1,188 @@
+* {
+  font-family: 'Lexend Deca', sans-serif;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #053F74;
+  padding: 0 5%;
+}
+
+.nav-item {
+  padding: 10px;
+}
+
+.dropdown-menu a {
+  color: #666666;
+}
+
+.dropdown-menu a:hover {
+  background-color: #053F74;
+  color: #fff;
+}
+
+.dropdown-item {
+  padding: 8px 0;
+}
+
+/* Title */
+#title {
+  color: #666666;
+}
+
+.text-title {
+  padding-top: 50px;
+}
+
+.welcome {
+  text-align: center;
+  padding: 50px 75px 75px;
+}
+
+.carousel-title {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* Watches */
+#watches {
+  color: #666666;
+  text-align: center;
+  padding: 3% 5%;
+}
+
+.logo-col {
+  padding: 20px;
+}
+
+.image {
+  width: 124px;
+  height: 63px;
+  border: solid;
+  border-radius: 10%;
+  border-color: #666666;
+  border-width: thin;
+  padding: 10px;
+}
+
+.image-rec {
+  width: 124px;
+  height: 64px;
+  border: solid;
+  border-radius: 10%;
+  border-color: #666666;
+  border-width: thin;
+}
+
+.image-crop {
+  width: 124px;
+  height: 63px;
+  border: solid;
+  border-radius: 10%;
+  border-color: #666666;
+  border-width: thin;
+  padding: 20px 10px 20px;
+}
+
+.image-lecor {
+  width: 124px;
+  height: 64px;
+  border: solid;
+  border-radius: 10%;
+  border-color: #666666;
+  border-width: thin;
+  padding: 0 20px;
+}
+
+.row-main {
+  padding-top: 50px;
+}
+
+/* jewelry */
+#jewelry {
+  color: #666666;
+  text-align: center;
+  padding: 2% 5% 5%;
+}
+
+/* contact */
+#contact {
+  background-color: #053F74;
+  color: #fff;
+  padding: 2% 14% 0;
+  letter-spacing: 1px;
+  font-size: 0.8rem;
+}
+
+h3 {
+  text-align: center;
+}
+
+.titles-style {
+  padding-bottom: 15px;
+  text-align: center;
+  border-bottom: 1.5px solid;
+}
+
+.lien-email {
+  color: #fff;
+}
+
+.lien-email:hover {
+  color: #fff;
+}
+
+.row-contact {
+  padding-top: 50px;
+}
+
+.mapouter {
+  position: relative;
+  margin-left: auto;
+  text-align: right;
+  height: 200px;
+  width: 200px;
+}
+
+.gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  height: 200px;
+  width: 200px;
+}
+
+/* footer */
+#footer {
+  background-color: #053F74;
+  color: #fff;
+  padding-bottom: 10px;
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+.p-footer {
+  margin-bottom: 0;
+}
+
+.content-box {
+  position: relative;
+  width: 100%;
+  min-height: 350px;
+  background: #ccc;
+  margin: 15px 0;
+}
+
+.img-box.left {
+  position: absolute;
+  top: -15px;
+  right: -15px;
+  bottom: -15px;
+  width: calc(50vw - 15px);
+  background: red;
+}
+
+.img-box.right {
+  position: absolute;
+  margin-left: 50px;
+  background: red;
+}
